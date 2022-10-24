@@ -8,15 +8,11 @@ Tim BE-12 mendapatkan Challenge Partner dari Greenpeace yang merupakan sebuah or
 
 [https://begreen.netlify.app/](https://begreen.netlify.app/)
 
-### Development / Staging
-
-[https://begreendev.netlify.app/](https://begreendev.netlify.app/)
-
 ### Design
 
 - Mockup : [Mockup Link](https://www.figma.com/file/DYlnrmaQHc4yeqTVaoMVBO/Final-Design-FEBE-12?node-id=520%3A72)
 - Wireframes (Whimsical) : [Wireframes Link](https://whimsical.com/wireframe-2qMjSCYhjDuS4ipTWuR7Zx)
-- UserFlow : [userflow link] (https://whimsical.com/user-flow-3kP4JdgsrtEyxAeJgYb7pg)
+- UserFlow : [Userflow Link](https://whimsical.com/user-flow-3kP4JdgsrtEyxAeJgYb7pg)
 
 ## Main Features
 
@@ -30,7 +26,7 @@ Tim BE-12 mendapatkan Challenge Partner dari Greenpeace yang merupakan sebuah or
 | -----------| ---------------------- | ---------------------------------------------------- |
 | Dustin     | Lead, Backend          | [@Dustin](https://github.com/Zerexxn)                |
 | Sheha      | Backend                | [@Sheha](https://github.com/shehaannisa)             |
-| Fanue      | Backend                | [@Fanuel](https://github.com/fanuelariks)            |
+| Fanuel     | Backend                | [@Fanuel](https://github.com/fanuelariks)            |
 
 ## Tech Stack
 - HTML
